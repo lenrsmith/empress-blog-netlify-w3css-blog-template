@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'empress-blog-casper',
+    modulePrefix: 'empress-blog-w3css-blog',
     environment,
     rootURL: '/',
     locationType: 'auto',

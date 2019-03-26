@@ -1,10 +1,8 @@
 # empress-blog Netlify Casper Template  
 
-This repo is used to generate a new empress-blog with the Casper template using Netlify's template system
+This repo is used to generate a new empress-blog with the W3CSS Blog template using Netlify's template system
 
 If you want to get started right now with a new empress-blog just click the button below
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/empress/empress-blog-netlify-casper-template)
 
 
 ## Technology
